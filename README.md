@@ -41,7 +41,6 @@ The app analyzes Uber pickup data in New York City and provides interactive char
 <p align="center">
   <img src="assets/2.png" width="800">
 </p>
----
 
 ## ▶️ How to Run
 
